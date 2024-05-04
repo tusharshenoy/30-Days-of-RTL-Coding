@@ -1,5 +1,4 @@
 # RTL-Day-14-Decoder
-Got it! Here's the revised version without including the code:
 
 # 30 Days of RTL Coding - Day 14
 
