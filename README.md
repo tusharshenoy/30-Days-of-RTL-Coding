@@ -1,7 +1,5 @@
 # RTL-Day-14-Decoder
 
-# 30 Days of RTL Coding - Day 14
-
 ## Problem Statement
 Implementing a 2 to 4 Decoder, 3 to 8 Decoder, and 4 to 16 Decoder using Gate/Structural Implementation.
 
@@ -69,3 +67,8 @@ and A3. The 3 to 16 line decoder can be constructed using either 2 to
 ![image](https://github.com/tusharshenoy/RTL-Day-14-Decoder/assets/107348474/e1d565c3-d6e6-4fb0-9137-cc5afd175ffe)
 
 ![image](https://github.com/tusharshenoy/RTL-Day-14-Decoder/assets/107348474/bcd81e2e-4afc-4a9b-882c-2273a032914a)
+
+### References:-
+
+
+[Decoder in Digital Electronics](https://www.javatpoint.com/decoder-digital-electronics)
